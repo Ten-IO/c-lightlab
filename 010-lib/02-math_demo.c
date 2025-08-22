@@ -1,3 +1,7 @@
+/*
+    [+] Aw program math_demo.c that uses: stdio.h (printf, scanf), stdlib.h (malloc, free), 
+        math.h (sqrt, pow, sin) 
+*/
 #include <stdio.h>
 #include <math.h>
 #include <time.h> 
